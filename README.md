@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alperenflz
+Hi there 👋
 - 👀 I’m interested in geospatial data analysis and gis tools
 - 🌱 I’m currently learning Developing WEB GIS Apps with C# ASP.NET CORE MVC and Leaflet
 
