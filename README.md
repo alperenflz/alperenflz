@@ -1,6 +1,6 @@
 Hi there 👋
 - 👀 I’m interested in geospatial data analysis and gis tools
-- 🌱 I’m currently learning Developing WEB GIS Apps with C# ASP.NET CORE MVC and Leaflet
+- 🌱 I’m currently learning front-end technologies to developing WEB GIS Apps
 
   
 <!---
